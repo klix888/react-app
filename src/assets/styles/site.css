@@ -1,0 +1,54 @@
+.left {
+    float: left;
+    
+}
+
+.left-text {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 14% 30px;
+    color: #112f91;
+    
+}
+
+.right {
+    float: right;
+}
+
+.navigator {
+    margin: 6% 30px;
+    font-size: 20px;
+    color: #fff;
+    width: 20%;
+    height: 10%;
+   
+}
+
+.logo { 
+    margin: 30px auto;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: #1597bb;
+    
+}
+
+.link-n {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #1597bb;
+}
+
+.container {
+    width: 96%;
+    padding: 12px;
+    margin: 0px auto;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+.container-home {
+    text-align: center;
+}
+
